@@ -1,6 +1,9 @@
-# IOT-Senai - Luz-Piscante
+# IOT-Senai - Led-Piscante
 
-# Luz Piscante
+Foi feito um projeto de led piscante com modelo físico e simulação, utilizando ESP32 e resistores, o código blink foi desenvolvido primeiramente no tinkercad e refatorado para o Arduino IDE, e a simulação foi feita no Wowki.
+
+
+# Led Piscante
 ![giphy](https://github.com/user-attachments/assets/dd0a4663-ed76-47de-b71b-ed8573b56744)
 
 ## TinkerCad
